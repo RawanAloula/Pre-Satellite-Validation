@@ -1,5 +1,5 @@
 # Satellite-Validation-1
-Preparing the data for validation 
+Preparing ground-based data for satellite validation 
 
 
 
